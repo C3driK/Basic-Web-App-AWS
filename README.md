@@ -16,5 +16,6 @@ The project is divided into 5 modules:
 - Link Serverless Function to Web App
 - Build Data Table
 - Add interactivity to Web App.
+At the end this is what the application architecture should look like "link"
 
 # Create WebApp
