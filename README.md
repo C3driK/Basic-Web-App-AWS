@@ -12,7 +12,7 @@ The AWS service I used to complete the project include:
  - Amazon DynamoDB
 The cost implication of carrying out this project was `$0` as all the resources used are Free Tier eligible.
 
-The project is divided into 5 modules:
+The project is divided into 5 parts:
 - Create Web App
 - Build Serverless Function
 - Link Serverless Function to Web App
